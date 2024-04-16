@@ -10,6 +10,7 @@
 /*--------------------------------------------Heading-----------*/
 header {
     margin: 0;
+    background-color:burlywood;
 }
 
 .heading {
@@ -34,10 +35,14 @@ header {
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
-    color: #676767;
+    color: #ffffff;
 }
 
 .title {
     margin-left: 517px;
-    color: #676767
-}
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #ffffff;
